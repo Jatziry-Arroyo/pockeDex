@@ -1,4 +1,4 @@
-const pokemon1 ={
+/*const pokemon1 ={
     "id" : 1,
     "name" : "bulbasaur",
     "weigth" : 69,
@@ -14,4 +14,4 @@ const pokemon3 ={
     "id" : 3,
     "name" : "venusaur",
     "weigth" : 1000,
-};
+};*/
